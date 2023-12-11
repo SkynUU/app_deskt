@@ -1,3 +1,3 @@
 # app_deskt
-java app
-PATENT KALKULATOR WALUT
+Przelicznik walut w podstawie zawierajacy możliwość przeliczania pln, euro oraz funty. 
+Po lewej stronie będą się wyświetlać nam wykresy walut podanych wyżej.
